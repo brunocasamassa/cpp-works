@@ -1,7 +1,4 @@
-/*
-  Autor: Fabio Lubacheski
-  Objetivo: Desenha uma janela utilizando a biblioteca SDL 2.0
-*/
+
 #include <SDL2/SDL.h>
 #include <iostream> // inclui cin, cout endl
 
